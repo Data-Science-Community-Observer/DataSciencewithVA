@@ -1,0 +1,1 @@
+# 3. Create a python function which accept 1 argument (Start Date) and print all the dates till date (Till date should be today's date). Excluding Saturday and Sunday. Generate URL from these dates. Save to an excel.
