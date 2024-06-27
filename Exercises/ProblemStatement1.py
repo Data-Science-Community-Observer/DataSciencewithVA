@@ -1,3 +1,5 @@
+# print start_date to till date, where till date is not define
+
 from datetime import datetime, timedelta
 start_date = "20230101"
 format = "%Y%m%d"
