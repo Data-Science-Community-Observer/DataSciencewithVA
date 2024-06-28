@@ -14,10 +14,10 @@ def generate_url(current_date):
 
 # initiate variable
 start_date = "20230101"
-format = "%Y%m%d"
 
 # function to generate dates till now excluding weekdays
-def dates_till_now(start_date,format):
+def dates_till_now(start_date):
+    format = "%Y%m%d"
     # initilize URL list
     urls = []
     # generate current date initiate from 2023/01/01
@@ -41,4 +41,4 @@ def dates_till_now(start_date,format):
     nse_data_urls.to_excel(excel_file, index=False)
     
 
-dates_till_now(start_date,format)
+dates_till_now(start_date)
