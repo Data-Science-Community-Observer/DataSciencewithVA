@@ -9,3 +9,5 @@ Introducing Vanshita, a dedicated individual with a passion for data science and
 Get in touch with maintainers:
 
 1. Vanshita Arya | [LinkedIn](https://www.linkedin.com/in/vanshita-arya/) | [GitHub](https://github.com/aryavanshita) | vanshita@iiaiac.org
+
+---
